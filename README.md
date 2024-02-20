@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abakte and I'm a Gamedev</h2>
+<h2 align="left">Hi 👋! My name is Abakte and I'm a Game-dev</h2>
 
 ###
 - 🔭 I am currently working on my career
